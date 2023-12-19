@@ -50,6 +50,9 @@ class NitroGen: # Initialise the class
 ██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║██║ ██╔██╗
 ██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║██║██╔╝ ██╗
 ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
+
+
+TmC$BvB@19@51vyQ
                                                         """) # Print the title card
         time.sleep(2) # Wait a few seconds
         self.slowType("Made by: Drillenissen#4268 && Benz#8295", .02) # Print who developed the code
